@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtInt-pro
-- 👀 I’m interested in python, javascript, typescript, react, react native, tailwind CSS, firebase, node. js. 
+- 👀 I’m interested in python, javascript, typescript, next. js, react, react native, tailwind CSS, firebase, node. js. 
 - 🌱 I’m currently learning C#, .net 6.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: enwonontuk20@gmail.com 
