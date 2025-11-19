@@ -1,4 +1,4 @@
-ArtInt-pro here; a seasoned JavaScript/TypeScript Dev.
+Seasoned JavaScript/TypeScript Dev.
 How to reach me: enwonontuk20@gmail.com 
 
 <!---
