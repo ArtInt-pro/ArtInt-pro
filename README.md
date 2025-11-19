@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ArtInt-pro. A seasoned JavaScript/TypeScript Dev.
-- 📫 How to reach me: enwonontuk20@gmail.com 
+ArtInt-pro here; a seasoned JavaScript/TypeScript Dev.
+How to reach me: enwonontuk20@gmail.com 
 
 <!---
 ArtInt-pro/ArtInt-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
